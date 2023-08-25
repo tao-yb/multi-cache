@@ -1,0 +1,7 @@
+
+A
+java:S1172"&Remove these unused method parameters.(Í¥óêÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ş»Ş8é­ß• 1
+C	java:S108*")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¨Üùÿÿÿÿ8é­ß• 1
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ş»Ş8ËÊß• 1

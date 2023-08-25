@@ -1,0 +1,8 @@
+
+€
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "cacheMetadata".(î“Ù8«ÜÀ/
+k	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(¬¶­ğÿÿÿÿÿ8«ÜÀ/
+f
+java:S2259"FA "NullPointerException" could be thrown; "getThis()" can return null.(¸Ø€œşÿÿÿÿ8«ÜÀ/
+^
+java:S1128"CRemove this unused import 'org.springframework.cache.CacheManager'.(÷ë¿Û8«ÜÀ/

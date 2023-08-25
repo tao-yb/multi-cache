@@ -1,0 +1,12 @@
+
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(“¥éƒÿÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(‚Ê«
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ÏÏ»Ñ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ØŸÈùÿÿÿÿ
+N
+java:S1611*"8Remove the parentheses around the "connection" parameter(âòö
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ÿâÈûÿÿÿÿÿ
+n
+java:S1602N"SRemove useless curly braces around statement and then remove useless return keyword(…°Ã¶øÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ªù®åøÿÿÿÿ

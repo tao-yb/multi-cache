@@ -1,0 +1,13 @@
+
+O
+java:S1068"4Remove this unused "methodInvocation" private field.(´µï³ıÿÿÿÿ
+E
+java:S1144*"/Remove this unused private "buildCache" method.(¢µÄü
+—
+java:S1186_"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ´ 
+z
+java:S1450"_Remove the "methodInvocation" field and declare it as a local variable in the relevant methods.(´µï³ıÿÿÿÿ
+t
+java:S1488J"^Immediately return this expression instead of assigning it to the temporary variable "result".(»º
+œ
+java:S1186d"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş‚ÄÔıÿÿÿÿ
